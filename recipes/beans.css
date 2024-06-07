@@ -1,0 +1,41 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #eeeee4;
+}
+h1{
+    font-size: 43px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(172, 177, 177);
+
+}
+h2{
+    text-align: center;
+    background-color: rgb(230, 206, 176);
+}
+p{
+    font-size: 22px;
+}
+ol,
+a{
+    font-size: 18px;
+    list-style-type: circle;
+    list-style-type: lower-roman;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+
+}
+ul.c{
+    list-style-type: circle;
+   
+}
+ul li{
+    padding: 5px;
+}
+img{
+    height: 300px;
+    width: 600px;
+    border: 2px solid black;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #eeeee4;
+}
+h1{
+    font-size: 43px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(172, 177, 177);
+
+}
+p{
+    font-size: 22px;
+}
+ol,
+li,
+a{
+    font-size: 18px;
+    list-style-type: lower-roman;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    /* text-align: center;
+    list-style-position: inside; */
+
+
+}
+a:hover{
+    color: darkorange;
+    font-style: italic;
+    font-size: 22px;
+}
